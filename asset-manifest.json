@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gym-website/static/css/main.bd3e8caa.css",
+    "main.js": "/gym-website/static/js/main.0cd9ac91.js",
+    "static/js/787.85d565d8.chunk.js": "/gym-website/static/js/787.85d565d8.chunk.js",
+    "static/media/header.png": "/gym-website/static/media/header.3138ff65a5167ce6636e.png",
+    "static/media/about.png": "/gym-website/static/media/about.c176679177077eeb3585.png",
+    "static/media/trainer-1.jpg": "/gym-website/static/media/trainer-1.4108b56e1b7df3d5e1aa.jpg",
+    "static/media/trainer-2.jpg": "/gym-website/static/media/trainer-2.450fa9ed23764ea6ca94.jpg",
+    "static/media/trainer-3.jpg": "/gym-website/static/media/trainer-3.58eb3ff5f1a7d9c4ec2d.jpg",
+    "static/media/class-4.jpg": "/gym-website/static/media/class-4.b45c889dfc4fe6aa0ec6.jpg",
+    "static/media/class-2.jpg": "/gym-website/static/media/class-2.5a992b1beecb3c3fb0ca.jpg",
+    "static/media/class-1.jpg": "/gym-website/static/media/class-1.aabed5f4bbc366b38644.jpg",
+    "static/media/class-3.jpg": "/gym-website/static/media/class-3.457e75a838dd1abfb26c.jpg",
+    "index.html": "/gym-website/index.html",
+    "main.bd3e8caa.css.map": "/gym-website/static/css/main.bd3e8caa.css.map",
+    "main.0cd9ac91.js.map": "/gym-website/static/js/main.0cd9ac91.js.map",
+    "787.85d565d8.chunk.js.map": "/gym-website/static/js/787.85d565d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3e8caa.css",
+    "static/js/main.0cd9ac91.js"
+  ]
+}
